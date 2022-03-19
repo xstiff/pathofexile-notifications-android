@@ -16,9 +16,10 @@ Basically this app detects ingame messages and send them to your phone using [Pu
 4. Go to settings > Scroll down > You will find *Create Access Token* button - click on it > Copy your *private* API 
 
   Here's a video tutorial [Imgur](https://imgur.com/a/whSJiOV)
-  
-  
+    
 # To-Do
 
 1. Make own notification wormhole instead of PushBullet
 2. Make an UI
+
+If u have any problems and/or ideas what to improve please let me know
